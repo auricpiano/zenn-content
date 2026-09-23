@@ -1,7 +1,7 @@
 ---
 title: "個人開発に Jira は持ち込まなかった — 仕事のプロセスから何を残して何を捨てたか"
 emoji: "🗂"
-type: "idea"
+type: "tech"
 topics: ["github", "個人開発", "プロジェクト管理", "ci", "swift"]
 published: false
 ---
