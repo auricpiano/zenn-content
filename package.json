@@ -1,0 +1,30 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preview": "zenn preview",
+    "new:article": "zenn new:article",
+    "lint": "textlint articles",
+    "lint:fix": "textlint --fix articles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auricpiano/zenn-content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auricpiano/zenn-content/issues"
+  },
+  "homepage": "https://github.com/auricpiano/zenn-content#readme",
+  "dependencies": {
+    "zenn-cli": "^0.5.3"
+  },
+  "devDependencies": {
+    "textlint": "^15.8.0",
+    "textlint-rule-preset-ja-technical-writing": "^12.0.2"
+  }
+}
